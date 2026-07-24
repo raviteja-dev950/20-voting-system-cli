@@ -1,0 +1,15 @@
+target/
+
+bin/
+
+.classpath
+.project
+.settings/
+
+*.class
+*.log
+
+.idea/
+.vscode/
+
+.DS_Store
